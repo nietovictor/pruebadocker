@@ -1,0 +1,12 @@
+{
+  "name": "pruebadocker",
+  "version": "1.0.0",
+  "description": "Un server de prueba para probar la descarga de código desde Github con un Dockerfile.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
